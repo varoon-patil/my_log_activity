@@ -4,7 +4,7 @@
   "version": "0.0.1",
   "title": "Varoon's Logging Activity",
   "description": "It will log the received messages",
-  "homepage": "https://github.com/project-flogo/tree/master/examples/activity",
+  "homepage": "https://github.com/varpatil-tibco/my_log_activity",
   "ref":"https://github.com/varpatil-tibco/my_log_activity",
   "settings": [
     {
