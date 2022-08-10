@@ -1,4 +1,4 @@
-module my_log_activity
+module github.com/varpatil-tibco/my_log_activity
 
 go 1.19
 
